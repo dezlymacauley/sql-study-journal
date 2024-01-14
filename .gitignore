@@ -1,0 +1,35 @@
+# Ignore database files
+*.sqlite
+*.db
+*.sqlitedb
+*.sqlite3
+*.db3
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider files
+.idea/
+*.sln.iml
+
+# Ignore SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Ignore database connection configuration
+*.env
